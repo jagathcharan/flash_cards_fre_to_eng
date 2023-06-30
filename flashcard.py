@@ -72,5 +72,4 @@ wrong_img = tk.PhotoImage(file="C:/Users/JAGATH/U_1/Flash_card/wrong.png")
 wrong_but=tk.Button(image=wrong_img,highlightthickness=0,bg="#B1DDC6",padx=50,pady=50,command=change)
 wrong_but.grid(column=1,row=2,sticky="e")
 
-# count(n=3)
 my_window.mainloop()
